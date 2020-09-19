@@ -6,10 +6,10 @@ Link to repository: https://github.com/awebb8/updated-responsive-portfolio
 Link to deployed site: https://awebb8.github.io/updated-responsive-portfolio/
 
 ## Project Goal
-Create a website utilizing Bootstrap.  Ensure usage of Bootstrap's grid system.  The site must be accessible with any screen size from xs to xl.  
+Update my previously created portfolio website.  The original site was created utilizing Bootstrap and its grid system.  The site is accessible with any screen size from xs to xl.  
 
 ## My Responsive Portfolio
-![Alix's Portfolio](./assets/images/updated-responsive-portfolio)
+![Alix's Portfolio](./assets/images/updated-responsive-portfolio.png)
 
 ## About Me
 The "About" page is a brief summary of myself.  It includes links to my personal LinkedIn and GitHub pages, a link to my resume, and a photo of myself.  The "About" page is accessible from all other pages through using the Navbar.
