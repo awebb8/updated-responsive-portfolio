@@ -1,0 +1,49 @@
+/* CSS Code for body of the site */
+body {
+    background-image: url("/Users/alix/gt-ft/homework/updated-responsive-portfolio/assets/images/background-image.jpeg");
+    background-color: #EABDB0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* navbar style */
+.bg-primary {
+    background-color: #668A90!important;
+}
+
+.navbar-brand {
+    font-family: 'DM Serif Display', serif;
+}
+
+/* h1 header style */
+h1 {
+    color: #668A90;
+    font-family: 'DM Serif Display', serif;
+}
+
+/* container style */
+.container {
+    margin-top: 85px;
+    margin-left: 30px;
+    padding: 20px;
+}
+
+/* card style */
+.card {
+    padding: 30px;
+    margin-bottom: 100px;
+}
+
+/* footer style */
+#footer {
+    padding-top: 10px;
+    clear: both;
+    text-align: center;
+    color: #84440D;
+    background-color: #9a6d3e;
+    border-top: solid;
+    border-top-width: thick;
+    border-top-color: #668A90;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
