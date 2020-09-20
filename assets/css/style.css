@@ -47,3 +47,9 @@ h1 {
     bottom: 0;
     width: 100%;
 }
+
+@media (max-width: 420px) {
+    .card {
+        width: 90%!important;
+    }
+}
