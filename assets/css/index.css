@@ -14,3 +14,10 @@
     padding-bottom: 20px;
 }
 
+/* Media screen for image */
+@media (max-width: 420px) {
+    .card .img {
+        width: 100%!important;
+    }
+}
+
