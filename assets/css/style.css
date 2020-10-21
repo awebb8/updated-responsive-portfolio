@@ -1,13 +1,13 @@
 /* CSS Code for body of the site */
 body {
-    background-image: url("https://github.com/awebb8/updated-responsive-portfolio/blob/master/assets/images/background-image.jpeg?raw=true");
-    background-color: #EABDB0;
+    background-image: url("https://github.com/awebb8/updated-responsive-portfolio/blob/master/assets/images/flower-seamless-pattern-background.png?raw=true");
+    background-color: #4181AD;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 /* navbar style */
 .bg-primary {
-    background-color: #668A90!important;
+    background-color: #7e9d7b!important;
 }
 
 .navbar-brand {
@@ -16,7 +16,7 @@ body {
 
 /* h1 header style */
 h1 {
-    color: #668A90;
+    color: #7e9d7b;
     font-family: 'DM Serif Display', serif;
 }
 
@@ -31,6 +31,8 @@ h1 {
 .card {
     padding: 30px;
     margin-bottom: 100px;
+    border: 3px solid #3c625f;
+    border-radius: 10px;
 }
 
 /* footer style */
@@ -38,11 +40,11 @@ h1 {
     padding-top: 10px;
     clear: both;
     text-align: center;
-    color: #84440D;
-    background-color: #9a6d3e;
+    color: #7e9d7b;
+    background-color: #3c625f;
     border-top: solid;
     border-top-width: thick;
-    border-top-color: #668A90;
+    border-top-color: #7e9d7b;
     position: fixed;
     bottom: 0;
     width: 100%;
